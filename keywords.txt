@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map SPI
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+tAS5047	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+AS5047_SPI_Init		KEYWORD2
+AS5047_Init		KEYWORD2
+AS5047_Read		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+CMD_R_NOP                        LITERAL1
+CMD_R_ERRFL                      LITERAL1
+CMD_R_PROG                       LITERAL1
+CMD_R_DIAAGC                     LITERAL1
+CMD_R_MAG                        LITERAL1
+CMD_R_ANGLEUNC                   LITERAL1
+CMD_R_ANGLECOM                   LITERAL1
+CMD_R_SETTINGS1                  LITERAL1
+CMD_R_SETTINGS2                  LITERAL1
